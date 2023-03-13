@@ -18,7 +18,7 @@
 			<input type="text" name="username" >
 		</div>
 		<div class="input-group">
-			<label>Passwosrd</label>
+			<label>Password</label>
 			<input type="password" name="password" pattern=".{4,8}" placeholder=" Password Must Be 4 Characters" >
 		</div>
 		<div class="input-group">
