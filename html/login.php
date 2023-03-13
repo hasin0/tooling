@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Propitix Tooling Login</title>
+	<title>Propitixs Tooling Login</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
