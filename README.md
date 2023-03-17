@@ -2,7 +2,7 @@
 
 
 ## Introduction
-This iS a Dockerfile to build a debian based container image running nginx and php-fpm 7.3.x / 7.2.x / 7.1.x / 7.0.x & Composer.
+This IS a Dockerfile to build a debian based container image running nginx and php-fpm 7.3.x / 7.2.x / 7.1.x / 7.0.x & Composer.
 
 ### Versioning
 | Docker Tag | GitHub Release | Nginx Version | PHP Version | Debian Version |
@@ -44,7 +44,7 @@ git add --all # If you are satisfied with your changes and willing to push every
 git commit -m "Put some message about this push here"
 ```
 
-## Push your changes to gitlab, and merge to dev branch
+## Push your changes to gitlab, and mergeto dev branch
 ```
 git push --set-upstream origin feature/[Your branch name]
 ```
@@ -71,4 +71,4 @@ Default web root:
 /usr/share/nginx/html
 ```
 
-## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com 
+## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com dd
